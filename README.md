@@ -4,4 +4,4 @@ YTB An Vũ
 Lệnh AnVu.js
 
 
-node AnVu.js <URL> <TIME> <TREADS> <bypass/proxy/proxy.txt>
+node AnVu.js <url> <time> <threads> <bypass/proxy/proxy.txt>

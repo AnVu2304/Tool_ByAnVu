@@ -4,4 +4,4 @@ YTB An Vũ
 Lệnh AnVu.js
 
 
-node AnVu.js <URL> <TIME> <TREADS> proxy
+node AnVu.js (URL) (TIME) (THREADS) proxy
